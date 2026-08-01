@@ -1,6 +1,0 @@
-/Users/raquelwinkeler/Desktop/projects/backend/matching-machine/src/main/java/com/rwinkeler/matchingengine/MatchingEngineApplication.java
-/Users/raquelwinkeler/Desktop/projects/backend/matching-machine/src/main/java/com/rwinkeler/matchingengine/adapter/in/rest/OrderController.java
-/Users/raquelwinkeler/Desktop/projects/backend/matching-machine/src/main/java/com/rwinkeler/matchingengine/adapter/out/kafka/KafkaOrderProducer.java
-/Users/raquelwinkeler/Desktop/projects/backend/matching-machine/src/main/java/com/rwinkeler/matchingengine/application/dto/OrderRequest.java
-/Users/raquelwinkeler/Desktop/projects/backend/matching-machine/src/main/java/com/rwinkeler/matchingengine/domain/model/Order.java
-/Users/raquelwinkeler/Desktop/projects/backend/matching-machine/src/main/java/com/rwinkeler/matchingengine/domain/model/enums/OrderSide.java
