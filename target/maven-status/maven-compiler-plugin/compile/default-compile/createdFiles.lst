@@ -1,0 +1,6 @@
+com/rwinkeler/matchingengine/MatchingEngineApplication.class
+com/rwinkeler/matchingengine/domain/OrderFactory.class
+com/rwinkeler/matchingengine/domain/OrderSide.class
+com/rwinkeler/matchingengine/domain/OrderId.class
+com/rwinkeler/matchingengine/domain/OrderStatus.class
+com/rwinkeler/matchingengine/domain/Order.class
