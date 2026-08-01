@@ -1,6 +1,6 @@
 com/rwinkeler/matchingengine/MatchingEngineApplication.class
-com/rwinkeler/matchingengine/domain/OrderFactory.class
-com/rwinkeler/matchingengine/domain/OrderSide.class
-com/rwinkeler/matchingengine/domain/OrderId.class
-com/rwinkeler/matchingengine/domain/OrderStatus.class
-com/rwinkeler/matchingengine/domain/Order.class
+com/rwinkeler/matchingengine/application/dto/OrderRequest.class
+com/rwinkeler/matchingengine/adapter/out/kafka/KafkaOrderProducer.class
+com/rwinkeler/matchingengine/adapter/in/rest/OrderController.class
+com/rwinkeler/matchingengine/domain/model/Order.class
+com/rwinkeler/matchingengine/domain/model/enums/OrderSide.class
